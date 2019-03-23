@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorldCountries</string>
+    <string name="BackButton">Back</string>
+    <string name="NextButton">Next</string>
+</resources>
