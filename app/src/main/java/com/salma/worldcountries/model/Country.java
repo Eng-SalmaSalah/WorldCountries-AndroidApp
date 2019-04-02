@@ -1,4 +1,4 @@
-package com.salma.worldcountries;
+package com.salma.worldcountries.model;
 
 public class Country {
     String rank;
